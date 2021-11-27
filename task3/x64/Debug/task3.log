@@ -1,0 +1,7 @@
+﻿  task3.cpp
+C:\Users\afgha\source\repos\task3\task3\task3.cpp(19,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\afgha\source\repos\task3\task3\task3.cpp(20,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\afgha\source\repos\task3\task3\task3.cpp(30,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\afgha\source\repos\task3\task3\task3.cpp(39,71): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\afgha\source\repos\task3\task3\task3.cpp(48,93): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  task3.vcxproj -> C:\Users\afgha\source\repos\task3\x64\Debug\task3.exe
